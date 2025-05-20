@@ -1,0 +1,6 @@
+Plan de cours - Architecture Réseaux
+1. Introduction aux réseaux
+2. Modèle OSI
+3. Adressage IP
+4. Routage
+5. Protocoles (TCP, UDP, etc.)
